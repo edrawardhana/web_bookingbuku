@@ -1,0 +1,3 @@
+[submodule "perpustakaan-be"]
+    path = perpustakaan-be
+    url = https://github.com/edrawardhana/backend-bookingbuku
